@@ -78,7 +78,8 @@ c)7.8x10<sup>-2 </sup> =0,078
  
  a) (3.2x10<sup>12</sup>)-(1.1x10<sup>12</sup>)= 2.1x10<sup>12
  
- b) (2.6x10<sup>8</sup>)-(1.3x10<sup>7</sup>)=   >
+ b) (2.6x10<sup>8</sup>)-(1.3x10<sup>7</sup>)=   
+ 
  (26x10<sup>7</sup>)-(1.3x10<sup>7</sup>)= 24.7x10<sup>7
  
  
