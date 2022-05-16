@@ -44,41 +44,41 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
 
 **2)Exprese cada uno de los números siguientes en notación científica:**
 
-a)1/500 = 2x10<sup>-3
+*a)1/500* = 2x10<sup>-3
  
-b)1/2000= 5x10<sup>-4
+*b)1/2000*= 5x10<sup>-4
  
-c)1/5,000,000= 2x10<sup>-7
+*c)1/5,000,000*= 2x10<sup>-7
  
  **4)Exprese cada uno de los números siguientes en notación científica:** 
 
-a)0.0002= 2x10<sup>-4
+*a)0.0002*= 2x10<sup>-4
  
-b)0.6= 6x10<sup>-1
+*b)0.6*= 6x10<sup>-1
  
-c)7.8x10<sup>-2 </sup> =0,078
+*c)7.8x10<sup>-2 </sup>* =0,078
 
 **6)Exprese cada uno de los números siguientes como un número decimal regular:**
  
- a)2x10<sup>5 </sup> = 200000
+ *a)2x10<sup>5 </sup> *= 200000
  
- b)5.4x10<sup>-9 </sup>= 0.0000000054
+ *b)5.4x10<sup>-9 </sup>*= 0.0000000054
  
- c)1.0x10<sup>1 </sup>= 10
+ *c)1.0x10<sup>1 </sup>*= 10
  
  **8) Exprese cada número de los siguientes como un número decimal regular:**
  
- a)4.5x10<sup>-6 </sup>= 0.0000045
+*a)4.5x10<sup>-6 </sup>*= 0.0000045
  
- b)8x10<sup>-9 </sup>= 0.000000008
+ *b)8x10<sup>-9 </sup>*= 0.000000008
  
- c)4.0x10<sup>-12 </sup>= 0.000000000004
+ *c)4.0x10<sup>-12 </sup>*= 0.000000000004
  
  **10)Efectúe las siguientes sustracciones:**
  
- a) (3.2x10<sup>12</sup>)-(1.1x10<sup>12</sup>)= 2.1x10<sup>12
+ *a) (3.2x10<sup>12</sup>)-(1.1x10<sup>12</sup>)*= 2.1x10<sup>12
  
- b) (2.6x10<sup>8</sup>)-(1.3x10<sup>7</sup>)=   
+ *b) (2.6x10<sup>8</sup>)-(1.3x10<sup>7</sup>)*=   
  
  (26x10<sup>7</sup>)-(1.3x10<sup>7</sup>)= 24.7x10<sup>7
  
