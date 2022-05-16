@@ -43,7 +43,7 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
 4. Notación científica
 
 **2)Exprese cada uno de los números siguientes en notación científica:**
-a)1/500 = 2x10<sub>(-3)
+a)1/500 = 2x10<\sup>-3
 
 
 
