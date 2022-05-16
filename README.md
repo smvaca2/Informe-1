@@ -58,5 +58,11 @@ b)0.6= 6x10<sup>-1
  
 c)7.8x10<sup>-2 </sup> =0,078
 
+**6)Exprese cada uno de los números siguientes como un número decimal regular:**
+ 
+ a)2x10<sup>5 </sup> = 200000
+ b)5.4x10<sup>-9 </sup>= 0.0000000054
+ c)1.0x10<sup>1 </sup>= 10
+
 
 
