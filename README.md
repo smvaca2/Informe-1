@@ -22,3 +22,6 @@ La notación de ingeniería es similar a la notación científica común, su dif
 
 La notación de ingeniería y los prefijos métricos son de gran importancia al momento de realizar conversiones de unidades métricas, ya que para realizar el cambio de un prefijo a otro necesitaremos conocer tanto su simbología como su valor. 
 
+![](https://github.com/smvaca2/Informe-1/blob/6caf628706e19dcc35bc24a482c578d4a33244f0/estructura%20atomica.PNG)
+![](https://github.com/smvaca2/Informe-1/blob/6caf628706e19dcc35bc24a482c578d4a33244f0/categoria%20materiales.PNG)
+
