@@ -40,7 +40,7 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
 ![](https://github.com/smvaca2/Informe-1/blob/cadf842cf6dc44dc956a484a50220aa064e3c4b2/proteccion%20de%20circuitos.PNG)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-4. Notación científica
+ Notación científica
 
 **2)Exprese cada uno de los números siguientes en notación científica:**
 
