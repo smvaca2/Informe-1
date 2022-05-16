@@ -24,4 +24,5 @@ La notación de ingeniería y los prefijos métricos son de gran importancia al 
 
 ![](https://github.com/smvaca2/Informe-1/blob/6caf628706e19dcc35bc24a482c578d4a33244f0/estructura%20atomica.PNG)
 ![](https://github.com/smvaca2/Informe-1/blob/6caf628706e19dcc35bc24a482c578d4a33244f0/categoria%20materiales.PNG)
-
+![](https://github.com/smvaca2/Informe-1/blob/bb21f3155295e218350116e141e23582d36e1ef8/carga%20electrica.PNG)
+![](https://github.com/smvaca2/Informe-1/blob/bb21f3155295e218350116e141e23582d36e1ef8/voltaje.PNG)
