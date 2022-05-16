@@ -28,3 +28,7 @@ La notación de ingeniería y los prefijos métricos son de gran importancia al 
 ![](https://github.com/smvaca2/Informe-1/blob/bb21f3155295e218350116e141e23582d36e1ef8/voltaje.PNG)
 ![](https://github.com/smvaca2/Informe-1/blob/7a601eb91e6e8736edde628ee437edd992563bba/fuentes%20de%20voltaje%20y%20de%20corriente.PNG)
 ![](https://github.com/smvaca2/Informe-1/blob/7a601eb91e6e8736edde628ee437edd992563bba/resistores.PNG)
+
+Resistores variables
+Como su nombre lo indica son resistencias que pueden cambiar el valor de su resistencia.
+Estos resistores sirven para dividir la voltaje y para controlar corriente.
