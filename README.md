@@ -118,6 +118,42 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
  
  **18)Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:**
  
+ *a)(32x10<sup>-3</sup>)(56x10<sup>3</sup>)*= 1792x10<sup>-3+3 </sup>
+ 
+ =1792x10<sup>0 </sup>= 1.792x10<sup>3
+ 
+ *b)(1.2x10<sup>-6</sup>)(1.2x10<sup>6</sup>)*= 1.44x10<sup>-6+(-6) </sup>
+ 
+ =1.44x10<sup>-12
+ 
+ *c)100(55x10<sup>-3</sup>)*= 5.5x10<sup>0 </sup>
+ 
+ **20)Exprese cada número del problema 13 en ohms por medio de un prefijo métrico**
+ 
+ *a)89,000*= 89x10<sup>3</sup>= 89kΩ
+ 
+ *b)450,000*= 450x10<sup>0</sup>= 450kΩ
+ 
+ *c)12,040,000,000,000*= 12.04x10<sup>12</sup>= 12.04TΩ
+ 
+ **22)Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:**
+ 
+ *a)31x10<sup>-3</sup>A*= 0.031A = 31mA
+ 
+ 
+ *b)5.5x10<sup>3</sup>V*= 5550V = 5.5kV
+ 
+ 
+ *c)20x10<sup>-12</sup>F*= 0.00000000002F = 20pF
+ 
+ **24)Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
+ 
+ *a)2.5x10<sup>-12</sup>A*= 2.5pA
+ 
+ *b)8x10<sup>9</sup>Hz*= 8GHz
+ 
+ *c)4.7x10<sup>3</sup>Ω*= 4.7kΩ
+ 
  
  
  
