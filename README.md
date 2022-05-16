@@ -14,4 +14,4 @@ _Repasar los conceptos de la estructura atómica, la carga eléctrica y sus cál
 
 2.  MARCO TEÓRICO   
 
-https://github.com/smvaca2/Informe-1/blob/589b7c8de21cd8ef2a8733e1d49f33b310dd5933/notacientifica.PNG
+![]
