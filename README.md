@@ -52,6 +52,10 @@ c)1/5,000,000= 2x10<sup>-7
  
  **4)Exprese cada uno de los números siguientes en notación científica:** 
 
-
+a)0.0002= 2x10<sup>-4
+ 
+b)0.6= 6x10<sup>-1
+ 
+c)7.8x10<sup>-2 =0,078 
 
 
