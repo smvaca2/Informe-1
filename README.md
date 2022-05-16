@@ -17,3 +17,4 @@ _Repasar los conceptos de la estructura atómica, la carga eléctrica y sus cál
 ![](https://github.com/smvaca2/Informe-1/blob/0fb479159002eaa761bc609ba8b5ba32b7885c2b/notacientifica.PNG)
 
 La notación de ingeniería es similar a la notación científica común, su diferencia está en que el exponente siempre será un multiplo de 3 y en esta notación puede haber hasta 3 decimales. 
+![](https://github.com/smvaca2/Informe-1/blob/80b47a58b8de84f6a236028676243eee413f3aa5/notaingenieria.PNG)
