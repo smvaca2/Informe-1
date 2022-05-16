@@ -35,9 +35,7 @@ Como su nombre lo indica son resistencias que pueden cambiar el valor de su resi
 Estos resistores sirven para dividir la voltaje y para controlar corriente.
 ![](https://github.com/smvaca2/Informe-1/blob/42688ea5de714e3c135966f69fe37bf2897fd5e1/resistores%20variables.PNG)
 ![](https://github.com/smvaca2/Informe-1/blob/42688ea5de714e3c135966f69fe37bf2897fd5e1/circuito%20electrico.PNG)
+![](
 
-**Protección y control de corriente en un circuito**
 
-_Para controlar la apertura o cierre de los circuitos se utilizan interruptores que pueden servir para prender o apagar el circuito.
-![image](https://user-images.githubusercontent.com/105610333/168679250-ea8bd80a-2281-42b8-9191-10a26119418b.png)
 
