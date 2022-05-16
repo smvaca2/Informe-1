@@ -96,6 +96,29 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
  
   0.5x10<sup>-6-(-8) </sup>= 0.5x10<sup>2
  
+ *c)(4.2x10<sup>8</sup>)÷(2x10<sup>-5</sup>)*= 4.2/2=2.1
+ 
+ 2.1x10<sup>8-(-5) </sup>= 2.1x10<sup>13
+ 
+ **14)Exprese cada número en notación de ingeniería:**
+ 
+ *a)2.35x10<sup>5 </sub>*= 0.235x10<sup>6
+ 
+ *b)7.32x10<sup>7 </sub>*= 7.32x10<sup>6
+ 
+ *c)1.333x10<sup>9</sub>*= 1,333,000,000
+ 
+ **16) Exprese cada número en notación de ingeniería:** 
+ 
+ *a)9.81x10<sup>-3 </sub>*= 0,00981
+ 
+ *b)4.81x10<sup>-4 </sub>*= 482x10<sup>-6
+ 
+ *c)4.38x10<sup>-7 </sub>*= 438x10<sup>-9
+ 
+ **18)Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:**
+ 
+ 
  
  
  
