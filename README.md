@@ -82,6 +82,15 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
  
  (26x10<sup>7</sup>)-(1.3x10<sup>7</sup>)= 24.7x10<sup>7
  
+ *c) (1.5x10<sup>-12</sup>)-(8x10<sup>-13</sup>)*=
+ 
+ (1.5x10<sup>-12</sup>)-(0.7x10<sup>-12</sup>)= 0.7x10<sup>-12
+ 
+ **12)Realice las siguientes divisiones:**
+ 
+ *a) (1.1x10<sup>3</sup>)÷(2.5x10<sup>12</sup>)= new Fraccion(1.0x10<sup>3</sub>, 2.5x10<sup>2</sub>);
+ 
+ 
  
  
 
