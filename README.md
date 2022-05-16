@@ -11,6 +11,8 @@ _Analizar los resistores, los circuitos electrónicos y sus mediciones
 _Utilizar los conceptos de la notación científica para la resolución de calculos con potencias de diez
 _Diferenciar la notación científica y la notación de ingeniería realizando ejercicios
 _Repasar los conceptos de la estructura atómica, la carga eléctrica y sus cálculos
+_Identificar los dispositivos de protección de circuitos y sus usos
+
 
 2.  MARCO TEÓRICO   
 
@@ -35,7 +37,13 @@ Como su nombre lo indica son resistencias que pueden cambiar el valor de su resi
 Estos resistores sirven para dividir la voltaje y para controlar corriente.
 ![](https://github.com/smvaca2/Informe-1/blob/42688ea5de714e3c135966f69fe37bf2897fd5e1/resistores%20variables.PNG)
 ![](https://github.com/smvaca2/Informe-1/blob/42688ea5de714e3c135966f69fe37bf2897fd5e1/circuito%20electrico.PNG)
-![](
+![](https://github.com/smvaca2/Informe-1/blob/cadf842cf6dc44dc956a484a50220aa064e3c4b2/proteccion%20de%20circuitos.PNG)
+
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+Notación científica
+
+**2)Exprese cada uno de los números siguientes en notación científica:**
+a)1/500 = 2x10^-3 
 
 
 
