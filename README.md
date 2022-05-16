@@ -88,11 +88,11 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
  
  **12)Realice las siguientes divisiones:**
  
- *a)(1.0x10<sup>3</sub>)÷(2.5x10<sup>2</sup>)*= 1/2.5 = 0.4
+ *a)(1.0x10<sup>3</sup>)÷(2.5x10<sup>2</sup>)*= 1/2.5 = 0.4
  
  0.4x10<sup>3-2 </sup>= 0.4x10<sup>1
  
- *b)(2.5x10<sup>-6</sub>)÷(5.0x10<sup>-8</sup>)*= 2.5/5.0= 0.5
+ *b)(2.5x10<sup>-6</sup>)÷(5.0x10<sup>-8</sup>)*= 2.5/5.0= 0.5
  
   0.5x10<sup>-6-(-8) </sup>= 0.5x10<sup>2
  
