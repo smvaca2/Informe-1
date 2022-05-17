@@ -326,6 +326,7 @@ a través del resistor?**
  
  **32)Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva**
  
+ ![](https://github.com/smvaca2/Informe-1/blob/4218c3326d80630b3a9388f131492d0a152276db/ej6.PNG)
  
  **34)¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?**
  
@@ -345,6 +346,8 @@ a través del resistor?**
  Uniendo las 2 resistencias dado que están en serie y utilizando la formula para calcular una resistencia en serie
  
  **40)En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor**
+ 
+ ![](https://github.com/smvaca2/Informe-1/blob/4218c3326d80630b3a9388f131492d0a152276db/ej5.PNG)
  
  Conectando el cable rojo del multimetro a V<sub>S</sub> y conectando el cable negro a VI
  
