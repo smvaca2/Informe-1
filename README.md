@@ -42,7 +42,7 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
 
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
  
- ***EJERCICIOS CAPITULO 1***
+ ***=========================EJERCICIOS CAPITULO 1=======================================================================***
 
 **2)Exprese cada uno de los números siguientes en notación científica:**
 
@@ -190,7 +190,7 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
  
  =10000÷(2200+10000)= 0.82Ω
  
-  ***EJERCICIOS CAPITULO 2***
+  ***==================================================EJERCICIOS CAPITULO 2========================================================***
 
  **2)¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?**
  
