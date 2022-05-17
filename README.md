@@ -154,8 +154,39 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
  
  *c)4.7x10<sup>3</sup>Ω*= 4.7kΩ
  
+ **26)Exprese cada cantidad en notación de ingeniería:**
  
+ *a)5μA*= 5x10<sup>-6</sup>A
  
+ *b)43mV*= 43x10<sup>-3</sup>V
+ 
+ *c)275kΩ*= 275x10<sup>3</sup>Ω
+ 
+ *d)10MW*= 10x10<sup>6</sup>W
+ 
+ **28)Determine lo siguiente:**
+ 
+ *a)El número de microamperes en 1 miliampere*
+ 
+ 1mA= 1x10<sup>-3</sup>A= 1x10<sup>3</sup>= 1μA
+ 
+ *b)El número de milivolts en 0.05 kilovolts*
+ 
+ 0.05kV= 0.05x10<sup>3</sup>V= 50x10<sup>3</sup>mA= 50mA
+ 
+ *c)El número de megohms en 0.02kilohms*
+ 
+ 0.02kΩ= 0.02x10<sup>3</sup>Ω= 20x10<sup>-6</sup>MΩ= 0.00002MΩ
+ 
+ *d)El número de kilowatts en 155miliwatts*
+ 
+ 155mW= 155x10<sup>-3</sup>W= 0.15x10<sup>-3</sup>MΩ= 0.000155kW
+ 
+ **30)Realice las operaciones:**
+ 
+ *a)10kΩ÷(2.2kΩ+10kΩ)*= 10x10<sup>3</sup>÷(2.2x10<sup>3</sup>+10x10<sup>3</sup>
+ 
+ =10000÷(2200+10000)= 0.82Ω
  
  
 
