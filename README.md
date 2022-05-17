@@ -328,7 +328,14 @@ a través del resistor?**
  
  **34)¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
  
- ![](https://github.com/smvaca2/Informe-1/blob/7a601eb91e6e8736edde628ee437edd992563bba/resistores.PNG)
+ ![](https://github.com/smvaca2/Informe-1/blob/b2a97979858931ccf666df0ff7a266516f27aadf/ej1.PNG)
+ 
+ **36) Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador** 
+ 
+ **38)Explique cómo mediría la resistencia de R2 en la figura 2-72**
+ 
+ ![](https://github.com/smvaca2/Informe-1/blob/b2a97979858931ccf666df0ff7a266516f27aadf/ej1.PNG)
+ 
  
  
  
