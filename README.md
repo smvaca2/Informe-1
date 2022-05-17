@@ -1,5 +1,5 @@
 # InformeTarea1
-1.  OBJETIVOS
+***1.  OBJETIVOS***
 
 _Aprender la notación científica para la simplificación cifras muy altas o muy pequeñas  
 _Identificar las distintas conversiones de unidades métricas  
@@ -14,7 +14,7 @@ _Repasar los conceptos de la estructura atómica, la carga eléctrica y sus cál
 _Identificar los dispositivos de protección de circuitos y sus usos
 
 
-2.  MARCO TEÓRICO   
+***2.  MARCO TEÓRICO***   
 
 ![](https://github.com/smvaca2/Informe-1/blob/0fb479159002eaa761bc609ba8b5ba32b7885c2b/notacientifica.PNG)
 
@@ -39,7 +39,7 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
 ![](https://github.com/smvaca2/Informe-1/blob/42688ea5de714e3c135966f69fe37bf2897fd5e1/circuito%20electrico.PNG)
 ![](https://github.com/smvaca2/Informe-1/blob/cadf842cf6dc44dc956a484a50220aa064e3c4b2/proteccion%20de%20circuitos.PNG)
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
  
  ***EJERCICIOS CAPITULO 1***
 
@@ -355,6 +355,14 @@ a través del resistor?**
  **46)¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?**
  
  *Respuesta*= el multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución
+ 
+***4. VIDEO***
+ 
+ https://youtu.be/IrQOEL_NDRE
+ 
+ 
+ ***5. CONCLUSIONES***
+ 
  
  
  
