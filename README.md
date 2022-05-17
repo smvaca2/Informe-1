@@ -254,7 +254,7 @@ a través del resistor?**
  
  El principio de funcionamiento de los generadores se basa en el fenómeno de inducción electromagnética. La Ley de Faraday
  
- **20)Cierta fuente de corriente proporciona 100 mA a 1 k de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga?**
+ **20)Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga?**
  
  
  
