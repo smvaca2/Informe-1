@@ -256,6 +256,35 @@ a través del resistor?**
  
  **20)Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga?**
  
+ V=I*R= 100mA*1kΩ=100V
+ 
+ I=V/R=100/500=0.2A
+ 
+ 0.2A=200mA
+ 
+ **22)Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21**
+ 
+ *a)rojo, violeta, naranja, oro*
+ 
+ R=27000=27kΩ
+ 
+ Tolerancia ±5%
+ 
+ *Valor Max*=50+27kΩ=27050Ω
+ 
+ *Valor Min*=27kΩ-50=26950Ω
+ 
+ *b)café, gris, rojo, plata*
+ 
+ R=1800Ω= 1.8kΩ
+ 
+ Tolerancia ±10%
+ 
+ *Valor Max*=1.8kΩ+100=1900Ω
+ 
+ *Valor Min*=1.8kΩ-100=1700Ω
+ 
+ 
  
  
  
