@@ -350,7 +350,7 @@ a través del resistor?**
  
  ![](https://github.com/smvaca2/Informe-1/blob/4218c3326d80630b3a9388f131492d0a152276db/ej5.PNG)
  
- Conectando el cable rojo del multimetro a V<sub>S</sub> y conectando el cable negro a VI
+ Conectando el cable rojo del amperímetro a V<sub>S</sub> y conectando el cable negro a VI
  
  **42)Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.**
  
