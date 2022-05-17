@@ -318,11 +318,11 @@ a través del resistor?**
  
  **30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:**
  
- *a)4R7J*=
+ *a)4R7J*= 4.7 ± 5%
  
- *b)5602M*=
+ *b)5602M*= 5602M
  
- *c)1501F*=
+ *c)1501F*= 1501 ± 1%
  
  **32)Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva**
  
@@ -342,8 +342,11 @@ a través del resistor?**
  
  ![](https://github.com/smvaca2/Informe-1/blob/57d7dc733c9e7e11b12f80881a74310c9a1bcede/ej2.PNG)
  
+ Uniendo las 2 resistencias dado que están en serie y utilizando la formula para calcular una resistencia en serie
+ 
  **40)En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor**
  
+ Conectando el cable rojo del multimetro a V<sub>S</sub> y conectando el cable negro a VI
  
  **42)Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.**
  
