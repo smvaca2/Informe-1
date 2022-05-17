@@ -284,6 +284,35 @@ a través del resistor?**
  
  *Valor Min*=1.8kΩ-100=1700Ω
  
+ **24)Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:**
+ 
+ *a)café, negro, negro, oro*
+ 
+ R=10Ω ± 5%
+ 
+ *b)verde, café, verde, plata*
+
+ R=5100000Ω ± 10%
+ 
+ *c)azul, gris, negro, oro*
+ 
+ R=68Ω ± 5%
+ 
+ **26)Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:**
+ 
+ *a)rojo, gris, violeta, rojo, café*
+ 
+ R= 28700 ± 1%
+ 
+ *b)azul, negro, amarillo, oro, café*
+ 
+ R=604x0.1= 60.4 ± 1% 
+ 
+ *c)blanco, naranja, café, café, café*
+ 
+ R= 9410 ± 1%
+ 
+ **28)El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?**
  
  
  
