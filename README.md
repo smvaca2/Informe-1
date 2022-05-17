@@ -335,9 +335,23 @@ a través del resistor?**
  
  **36) Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador** 
  
+ ![](https://github.com/smvaca2/Informe-1/blob/d9df32aefe02e1d35811c3e621719f08418c2112/ej3.PNG)
+ 
  **38)Explique cómo mediría la resistencia de R2 en la figura 2-72**
  
  ![](https://github.com/smvaca2/Informe-1/blob/57d7dc733c9e7e11b12f80881a74310c9a1bcede/ej2.PNG)
+ 
+ **40)En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor**
+ 
+ 
+ **42)Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.**
+ 
+ 
+ **44)¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?**
+ 
+ 
+ **46)¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?**
+ 
  
  
  
