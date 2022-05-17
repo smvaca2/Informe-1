@@ -315,6 +315,7 @@ a través del resistor?**
  
  **28)El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?**
  
+ *Respuesta*= 931x1 ± 1%
  
  **30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:**
  
