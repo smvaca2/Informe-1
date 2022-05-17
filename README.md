@@ -4,6 +4,7 @@
 _Aprender la notación científica para la simplificación cifras muy altas o muy pequeñas  
 _Identificar las distintas conversiones de unidades métricas  
 _Interpretar los conceptos y aplicaciones del voltaje, corriente y resistencia
+
 _Analizar los resistores, los circuitos electrónicos y sus mediciones
 
 1.2 OBJETIVOS ESPECÍFICOS
@@ -362,6 +363,30 @@ a través del resistor?**
  
  
  ***5. CONCLUSIONES***
+ 
+En el trabajo de este informe para la tarea 1 se comprendió de una manera práctica el uso de la notación científica y notación de ingeniería para realizar problemas o para usarlos al momento de utilizar los prefijos métricos para el desarrollo de conversiones de unidades métricas. 
+Además se repasó los conceptos como los de la estructura atómica, los electrónes y cómo con estos podemos calcular las cargas. También se resolvió calculos con el voltaje, corriente y las resistencias. En este último punto se aprendió de igual manera a reconocer el valor de las resistenicas y los tipos de resistencias y de circuitos electrónicos que existen. 
+ En este informe se identificó los dispositivos de protección electrónica y sus usos, el funcionamiento de interruptores, cortacircuitos y fusibles. 
+ Con los resultados de este informe se pueden sentar buenas bases para continuar con la materia de fundamentos de circuitos eléctricos, puesto que se han analizado y estudiado las bases de esta materia en esta tarea. 
+ 
+ ***6. BIBLIOGRAFÍA***
+ *_Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson.*
+ 
+ *_Conversión de unidades. (s/f). Innoveduca.com. Recuperado el 17 de mayo de 2022, de* *http://www.innoveduca.com/files/propis/mates_unidadmedida/24_conversin_de_unidades.htm*
+ 
+ *_Voltaje. (s/f). Energyeducation.ca. Recuperado el 17 de mayo de 2022, de https://energyeducation.ca/Enciclopedia_de_Energia/index.php/Voltaje*
+ 
+ *_La estructura atómica nuclear. (2013, octubre 9). Foro Nuclear. https://www.foronuclear.org/descubre-la-energia-nuclear/preguntas-y-respuestas/sobre-energia-nuclear/la-estructura-atomica-nuclear/*
+ 
+ *_La carga eléctrica. (s/f). Xunta.gal. Recuperado el 17 de mayo de 2022, de https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/11_la_carga_elctrica.html*
+
+ *_Resistencias variables. (s/f). Ieslosalbares.es. Recuperado el 17 de mayo de 2022, de http://www.ieslosalbares.es/tecnologia/Electronica4eso/resistencias_variables.html*
+
+
+
+
+
+ 
  
  
  
