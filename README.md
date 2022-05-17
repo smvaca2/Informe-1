@@ -315,6 +315,23 @@ a través del resistor?**
  **28)El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?**
  
  
+ **30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:**
+ 
+ *a)4R7J*=
+ 
+ *b)5602M*=
+ 
+ *c)1501F*=
+ 
+ **32)Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva**
+ 
+ 
+ **34)¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+ 
+ ![](https://github.com/smvaca2/Informe-1/blob/7a601eb91e6e8736edde628ee437edd992563bba/resistores.PNG)
+ 
+ 
+ 
  
  
  
