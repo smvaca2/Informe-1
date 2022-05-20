@@ -354,10 +354,13 @@ a través del resistor?**
  
  **42)Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.**
  
+ Se debe colocar en paralelo para medir cada resistor
  
  **44)¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?**
  
  ![](https://github.com/smvaca2/Informe-1/blob/74de6b66786b62d4691af2d849d50c929e04d930/ej4.PNG)
+ 
+ *Respuesta* 10kΩ
  
  
  **46)¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?**
