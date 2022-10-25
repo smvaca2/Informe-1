@@ -368,9 +368,7 @@ a través del resistor?**
  *Respuesta*= el multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución
  
 ***4. VIDEO***
- 
- https://youtu.be/IrQOEL_NDRE
- 
+  
  
  ***5. CONCLUSIONES***
  
